@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
  <img src="https://www.emojimeaning.com/img/img-apple-160/1f469-200d-1f3eb.png" width="20" height="20" />   __Casual Instructor 2020__
  * Computer Engineering Department , Faculty of Engineering, University of Peradeniya
- * CO 222 Programming Methodology ( C Langauge
+ * CO 222 Programming Methodology ( C Langauge )
  
  ### Online Courses
  
