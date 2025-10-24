@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
- I’m currently  Open to contribute to Australia based companies.
+I’m currently open to contributing to innovative, Australia-based companies through impactful software engineering work.
 
  <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" width="20" height="20" />  [https://www.linkedin.com/in/sandushi-dileka/](https://www.linkedin.com/in/sandushi-dileka/) <br />
  <img src="https://play-lh.googleusercontent.com/-gBEH8jVhT9palMzQHOdXtA8OSu5AdbyaQ4ldEsCpzW-g_tpxH805_mJZZBZ3-T2Tm4O" width="20" height="20" />  [sandushidilekaaus@gmail.com](sandushidilekaaus@gmail.com) <br />
